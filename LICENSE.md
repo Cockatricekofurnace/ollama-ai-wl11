@@ -1,4 +1,4 @@
-# 
+# Premium Ollama extensões. Com integração de API e testes automatizados — otimizado para máximo desempenho e eficiência.
 
 
 
